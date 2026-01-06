@@ -1,0 +1,17 @@
+{
+  "appId": "com.localaistudio.app",
+  "productName": "Local AI Studio",
+  "files": [
+    "dist-renderer/**/*",
+    "dist-electron/**/*",
+    "templates/**/*",
+    "package.json"
+  ],
+  "directories": {
+    "buildResources": "assets"
+  },
+  "linux": {
+    "target": "AppImage",
+    "category": "Development"
+  }
+}
