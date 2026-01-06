@@ -1,0 +1,5 @@
+[
+  { "id": "c1", "name": "آرمان کریمی", "email": "arman@example.com", "status": "active" },
+  { "id": "c2", "name": "پریسا نادری", "email": "parisa@example.com", "status": "active" },
+  { "id": "c3", "name": "علیرضا ملکی", "email": "alireza@example.com", "status": "inactive" }
+]
